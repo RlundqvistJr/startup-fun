@@ -3,5 +3,5 @@ A simple application built playing around with JavaFX, to track and log startup 
 
 
 
-![Screenshot](/application-scrnshot.png)
+![Screenshot](resources/application-scrnshot.png)
 
